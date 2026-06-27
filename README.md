@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0322-coin-change) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0001-two-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
