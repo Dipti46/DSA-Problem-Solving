@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
