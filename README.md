@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0547-number-of-provinces) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
