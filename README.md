@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 ## Recursion
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -125,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
