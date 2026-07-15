@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
