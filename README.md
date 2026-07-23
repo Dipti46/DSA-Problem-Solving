@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
