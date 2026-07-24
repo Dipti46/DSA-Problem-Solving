@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
