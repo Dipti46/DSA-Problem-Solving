@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0133-clone-graph) |
 ## Binary Indexed Tree
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
