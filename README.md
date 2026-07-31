@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
