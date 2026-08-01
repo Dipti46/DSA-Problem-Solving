@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
