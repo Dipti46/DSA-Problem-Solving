@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
