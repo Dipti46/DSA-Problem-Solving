@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 ## Bit Manipulation
 |  |
 | ------- |
