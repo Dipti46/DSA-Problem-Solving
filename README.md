@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
+| [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
