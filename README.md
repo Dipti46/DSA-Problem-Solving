@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 ## Binary Indexed Tree
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
