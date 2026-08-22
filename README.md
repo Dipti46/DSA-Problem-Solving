@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
