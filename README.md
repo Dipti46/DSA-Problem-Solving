@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 ## Binary Indexed Tree
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
