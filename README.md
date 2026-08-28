@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0133-clone-graph) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
