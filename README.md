@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
