@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0480-sliding-window-median) |
+| [0525-contiguous-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0724-find-pivot-index) |
