@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0088-merge-sorted-array) |
