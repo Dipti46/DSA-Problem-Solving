@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dipti46/DSA-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
